@@ -4,7 +4,7 @@ Op deze website is mijn portfolio te zien van alle opleidingen die ik gevolgd he
 </p>
 
 <h2>Persoonlijke gegevens<h2>
-Naam: Mohammed Baallach
+<p> Naam: Mohammed Baallach
 <br>
 <br>
 Geboortedatum: 23-10-2002
@@ -17,7 +17,8 @@ Linkedin: https://www.linkedin.com/in/mohammed-baallach-7484921a6/
 <br>
 <br>
 Rijbewijs: Nee
-
+</p>
+  
 <h2>Profiel</h2>
 <p>
 Mijn naam is Mohammed Baallach. Ik ben 19 jaar oud. Ik zit op de bit-academy en ik volg de opleiding software developer niveau 4. Ik ben woonachtig in Amsterdam west.
