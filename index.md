@@ -16,7 +16,7 @@ E-mail: mohammedbaallach@hotmail.com
   <a href ="https://www.linkedin.com/in/mohammed-baallach-7484921a6/">Linkedin</a>
 <br>
 <br>
-  <a href="https://github.com/Mootje5713">Gthub</a>
+  <a href="https://github.com/Mootje5713">Github</a>
 <br>
 <br>
 Rijbewijs: Nee
