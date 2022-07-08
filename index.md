@@ -1,4 +1,4 @@
-# Mijn portfolio
+# Mohammed Baallach
 
 Mijn is naam Mohammed Baallach en dit is mijn portfolio website.
 Op deze website is mijn portfolio te zien van alle opleidingen die ik gevolgd heb en alle banen die ik heb genomen.
