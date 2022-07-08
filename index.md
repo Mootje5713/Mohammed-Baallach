@@ -6,9 +6,6 @@ Op deze website is mijn portfolio te zien van alle opleidingen die ik gevolgd he
 <h2>Persoonlijke gegevens<h2>
 Naam: Mohammed Baallach
 Geboortedatum: 23-10-2002
-Adres: Hemsterhuisstraat 49, 1
-Postcode: 1065 JV
-Mobiel: 0684866217
 E-mail: mohammedbaallach@hotmail.com
 Linkedin: https://www.linkedin.com/in/mohammed-baallach-7484921a6/
 Rijbewijs: Nee
@@ -21,13 +18,14 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
 </p>
 
 <h2>Opleidingen</h2>
-- Iedersland college VMBO-BB 2015-2019
   
-- MBO college zuidoost medewerker business service niveau 2 2019-2020
-  
-- MBO college zuidoost Allround ict medewerker niveau 3 augustus 2020- 25 januari 2021
-  
-- Bit-academy 2021-heden
+  - Iedersland college VMBO-BB 2015-2019
+
+  - MBO college zuidoost medewerker business service niveau 2 2019-2020
+
+  - MBO college zuidoost Allround ict medewerker niveau 3 augustus 2020- 25 januari 2021
+
+  - Bit-academy 2021-heden
 
 <h2>Stages</h2>
 - Theater de meervaart in april 2018 (2 weken)
