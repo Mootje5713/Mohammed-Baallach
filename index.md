@@ -53,36 +53,22 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
   <br>
   - Usecue B.V. van februari 2022 tot juli 2022 (6 maanden)
 
-<h2>Werkervaring</h2>
-  - Dekamarkt november 2017-april 2018
-  <br>
-  <br>
-  - Action oktober 2018- februari 2019
-  <br>
-  <br>
-  - Dirk van den Broek mei 2019-juni 2019
-  <br>
-  <br>
-  - Fieldstars juni 2020-juli 2020
-  <br>
-  <br>
-  - Energieplan nederland augustus 2020
-  <br>
-  <br>
-  - Lidl maart 2021-heden
-  <br>
-  <br>
-  - Burger king februari 2022- heden
+## Werkervaring
+- Dekamarkt november 2017-april 2018
+- Action oktober 2018- februari 2019
+- Dirk van den Broek mei 2019-juni 2019
+- Fieldstars juni 2020-juli 2020
+- Energieplan nederland augustus 2020
+- Lidl maart 2021-heden
+- Burger king februari 2022- heden
 
-<h2>Talen</h2>
-  - Nederlands
-  <br>
-  <br>
-  - Engels
-  <br>
-  <br>
-  - Marokkaans arabisch (darija)
+## Talen
 
-<h2>showcases:</h2>
-  - Grouphouz-showcase [Showcase_Grouphouz.pdf]
-  - Eduarte-showcase [Eduarteverslag.pdf]
+- Nederlands
+- Engels
+- Marokkaans arabisch (darija)
+
+## Showcases
+
+- Grouphouz-showcase [Showcase_Grouphouz.pdf]
+- Eduarte-showcase [Eduarteverslag.pdf]
