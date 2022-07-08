@@ -13,10 +13,10 @@ Geboortedatum: 23-10-2002
 E-mail: mohammedbaallach@hotmail.com
 <br>
 <br>
-Linkedin: https://www.linkedin.com/in/mohammed-baallach-7484921a6/
+  <a href ="https://www.linkedin.com/in/mohammed-baallach-7484921a6/">Linkedin</a>
 <br>
 <br>
-github: https://github.com/Mootje5713
+  <a href="https://github.com/Mootje5713">Gthub</a>
 <br>
 <br>
 Rijbewijs: Nee
@@ -84,5 +84,5 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
   - Marokkaans arabisch (darija)
 
 <h2>showcases:</h2>
-  - file:///C:/Users/mohammed/Downloads/Showcase_%20Grouphouz.pdf
-  - file:///C:/Users/mohammed/Downloads/Eduarteverslag.pdf
+  - <a href="file:///C:/Users/mohammed/Downloads/Showcase_%20Grouphouz.pdf">Grouphouz-showcase</a>
+  - <a href="file:///C:/Users/mohammed/Downloads/Eduarteverslag.pdf">Eduarte-showcase</a>
