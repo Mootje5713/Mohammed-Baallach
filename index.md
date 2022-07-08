@@ -22,8 +22,11 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
 
 <h2>Opleidingen</h2>
 - Iedersland college VMBO-BB 2015-2019
+  
 - MBO college zuidoost medewerker business service niveau 2 2019-2020
+  
 - MBO college zuidoost Allround ict medewerker niveau 3 augustus 2020- 25 januari 2021
+  
 - Bit-academy 2021-heden
 
 <h2>Stages</h2>
