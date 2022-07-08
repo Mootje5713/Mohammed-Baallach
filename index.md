@@ -33,13 +33,13 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
 - Usecue B.V. van februari 2022 tot juli 2022 (6 maanden)
 
 ## Werkervaring
-- Dekamarkt november 2017-april 2018
-- Action oktober 2018- februari 2019
-- Dirk van den Broek mei 2019-juni 2019
-- Fieldstars juni 2020-juli 2020
-- Energieplan nederland augustus 2020
-- Lidl maart 2021-heden
-- Burger king februari 2022- heden
+- Dekamarkt vakkenvuller november 2017-april 2018 
+- Action vakkenvuller oktober 2018- februari 2019
+- Dirk van den Broek vakkenvuller mei 2019-juni 2019
+- Fieldstars sales-verkoper juni 2020-juli 2020
+- Energieplan sales-verkoper nederland augustus 2020
+- Lidl vakkenvuller maart 2021-heden
+- Burger king hulpkracht februari 2022- heden
 
 ## Talen
 
