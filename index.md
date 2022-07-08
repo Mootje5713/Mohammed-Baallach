@@ -19,40 +19,40 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
 
 <h2>Opleidingen</h2>
   Iedersland college VMBO-BB 2015-2019
-
+  <br>
   MBO college zuidoost medewerker business service niveau 2 2019-2020
-
+  <br>
   MBO college zuidoost Allround ict medewerker niveau 3 augustus 2020- 25 januari 2021
-
+  <br>
   Bit-academy 2021-heden
 
 <h2>Stages</h2>
   Theater de meervaart in april 2018 (2 weken)
-
+  <br>
   Apotheek vogeltjeswei van oktober 2018 tot december 2018 (3 maanden)
-  
+  <br>
   Mama’s koelkast van januari 2020 tot maart 2020 (3 maanden)
-  
+  <br>
   Usecue B.V. van februari 2022 tot juli 2022 (6 maanden)
 
 <h2>Werkervaring</h2>
   Dekamarkt november 2017-april 2018
-  
+  <br>
   Action oktober 2018- februari 2019
-  
+  <br>
   Dirk van den Broek mei 2019-juni 2019
-  
+  <br>
   Fieldstars juni 2020-juli 2020
-  
+  <br>
   Energieplan nederland augustus 2020
-  
+  <br>
   Lidl maart 2021-heden
-  
+  <br>
   Burger king februari 2022- heden
 
 <h2>Talen</h2>
   Nederlands
-
+  <br>
   Engels
-  
+  <br>
   Marokkaans arabisch (darija)
