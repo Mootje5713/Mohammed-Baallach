@@ -84,5 +84,5 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
   - Marokkaans arabisch (darija)
 
 <h2>showcases:</h2>
-  - file:///C:/Users/mohammed/Downloads/Eduarteverslag.pdf Grouphouz-showcase
-  - file:///C:/Users/mohammed/Downloads/Eduarteverslag.pdf Eduarte-showcase
+  - Grouphouz-showcase [Showcase_Grouphouz.pdf]
+  - Eduarte-showcase [Eduarteverslag.pdf]
