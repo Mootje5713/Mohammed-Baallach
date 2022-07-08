@@ -51,7 +51,7 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
   - Mama’s koelkast van januari 2020 tot maart 2020 (3 maanden)
   <br>
   <br>
-  -Usecue B.V. van februari 2022 tot juli 2022 (6 maanden)
+  - Usecue B.V. van februari 2022 tot juli 2022 (6 maanden)
 
 <h2>Werkervaring</h2>
   - Dekamarkt november 2017-april 2018
