@@ -3,24 +3,14 @@
 Mijn is naam Mohammed Baallach en dit is mijn portfolio website.
 Op deze website is mijn portfolio te zien van alle opleidingen die ik gevolgd heb en alle banen die ik heb genomen.
 
-<h2>Persoonlijke gegevens</h2>
-<p> Naam: Mohammed Baallach
-<br>
-<br>
-Geboortedatum: 23-10-2002
-<br>
-<br>
-E-mail: mohammedbaallach@hotmail.com
-<br>
-<br>
-  <a href ="https://www.linkedin.com/in/mohammed-baallach-7484921a6/">Linkedin</a>
-<br>
-<br>
-  <a href="https://github.com/Mootje5713">Github</a>
-<br>
-<br>
+## Persoonlijke gegevens
+
+Naam: Mohammed Baallach  
+Geboortedatum: 23-10-2002  
+E-mail: mohammedbaallach@hotmail.com  
+<a href ="https://www.linkedin.com/in/mohammed-baallach-7484921a6/">Linkedin</a>  
+<a href="https://github.com/Mootje5713">Github</a>  
 Rijbewijs: Nee
-</p>
   
 ## Profiel
 
