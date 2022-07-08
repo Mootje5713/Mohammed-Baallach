@@ -1,7 +1,7 @@
-<h1>Mijn portfolio</h1>
-<p>Mijn is naam Mohammed Baallach en dit is mijn portfolio website.
+# Mijn portfolio
+
+Mijn is naam Mohammed Baallach en dit is mijn portfolio website.
 Op deze website is mijn portfolio te zien van alle opleidingen die ik gevolgd heb en alle banen die ik heb genomen.
-</p>
 
 <h2>Persoonlijke gegevens</h2>
 <p> Naam: Mohammed Baallach
@@ -22,36 +22,25 @@ E-mail: mohammedbaallach@hotmail.com
 Rijbewijs: Nee
 </p>
   
-<h2>Profiel</h2>
-<p>
+## Profiel
+
 Mijn naam is Mohammed Baallach. Ik ben 19 jaar oud. Ik zit op de bit-academy en ik volg de opleiding software developer niveau 4. Ik ben woonachtig in Amsterdam west.
 
 Ik vind het belangrijk om goed en communicatief te werken met andere mensen op de werkvloer. Daarnaast ben ik een doorzetter en vind ik het belangrijk om mijn doel te behalen tot het bittere einde.
-</p>
 
-<h2>Opleidingen</h2>
-  - Iedersland college VMBO-BB 2015-2019
-  <br>
-  <br>
-  - MBO college zuidoost medewerker business service niveau 2 2019-2020
-  <br>
-  <br>
-  - MBO college zuidoost Allround ict medewerker niveau 3 augustus 2020- 25 januari 2021
-  <br>
-  <br>
-  - Bit-academy 2021-heden
+## Opleidingen
 
-<h2>Stages</h2>
-  - Theater de meervaart in april 2018 (2 weken)
-  <br>
-  <br>
-  - Apotheek vogeltjeswei van oktober 2018 tot december 2018 (3 maanden)
-  <br>
-  <br>
-  - Mama’s koelkast van januari 2020 tot maart 2020 (3 maanden)
-  <br>
-  <br>
-  - Usecue B.V. van februari 2022 tot juli 2022 (6 maanden)
+- Iedersland college VMBO-BB 2015-2019
+- MBO college zuidoost medewerker business service niveau 2 2019-2020
+- MBO college zuidoost Allround ict medewerker niveau 3 augustus 2020- 25 januari 2021
+- Bit-academy 2021-heden
+
+## Stages
+
+- Theater de meervaart in april 2018 (2 weken)
+- Apotheek vogeltjeswei van oktober 2018 tot december 2018 (3 maanden)
+- Mama’s koelkast van januari 2020 tot maart 2020 (3 maanden)
+- Usecue B.V. van februari 2022 tot juli 2022 (6 maanden)
 
 ## Werkervaring
 - Dekamarkt november 2017-april 2018
@@ -69,6 +58,6 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
 - Marokkaans arabisch (darija)
 
 ## Showcases
+
 - [Grouphouz-showcase](Showcase_Grouphouz.pdf)
 - [Eduarte-showcase](Eduarteverslag.pdf)
- main
