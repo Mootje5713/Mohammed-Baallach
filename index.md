@@ -3,7 +3,7 @@
 Op deze website is mijn portfolio te zien van alle opleidingen die ik gevolgd heb en alle banen die ik heb genomen.
 </p>
 
-<h2>Persoonlijke gegevens<h2>
+<h2>Persoonlijke gegevens</h2>
 <p> Naam: Mohammed Baallach
 <br>
 <br>
@@ -14,6 +14,9 @@ E-mail: mohammedbaallach@hotmail.com
 <br>
 <br>
 Linkedin: https://www.linkedin.com/in/mohammed-baallach-7484921a6/
+<br>
+<br>
+github:https://github.com/Mootje5713
 <br>
 <br>
 Rijbewijs: Nee
