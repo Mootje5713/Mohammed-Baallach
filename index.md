@@ -14,7 +14,7 @@ Rijbewijs: Nee
   
 ## Profiel
 
-Mijn naam is Mohammed Baallach. Ik ben 19 jaar oud. Ik zit op de bit-academy en ik volg de opleiding software developer niveau 4. Ik ben woonachtig in Amsterdam west.
+Mijn naam is Mohammed Baallach. Ik ben 20 jaar oud. Ik zit op de bit-academy en ik volg de opleiding software developer niveau 4. Ik ben woonachtig in Amsterdam west.
 
 Ik vind het belangrijk om goed en communicatief te werken met andere mensen op de werkvloer. Daarnaast ben ik een doorzetter en vind ik het belangrijk om mijn doel te behalen tot het bittere einde.
 
@@ -22,7 +22,7 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
 
 - Iedersland college VMBO-BB 2015-2019
 - MBO college zuidoost medewerker business service niveau 2 2019-2020
-- MBO college zuidoost Allround ict medewerker niveau 3 augustus 2020- 25 januari 2021
+- MBO college zuidoost Allround ict medewerker niveau 3 augustus 2020-25 januari 2021
 - Bit-academy 2021-heden
 
 ## Stages
