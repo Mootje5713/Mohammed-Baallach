@@ -38,7 +38,7 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
 - Dirk van den Broek vakkenvuller mei 2019-juni 2019
 - Fieldstars sales-verkoper juni 2020-juli 2020
 - Energieplan sales-verkoper nederland augustus 2020
-- Lidl vakkenvuller maart 2021-heden
+- Lidl vakkenvuller maart 2021-Augustus 2022
 - Burger king hulpkracht februari 2022- heden
 
 ## Talen
