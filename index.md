@@ -28,9 +28,10 @@ Ik vind het belangrijk om goed en communicatief te werken met andere mensen op d
 ## Stages
 
 - Theater de meervaart in april 2018 (2 weken)
-- Apotheek vogeltjeswei van oktober 2018 tot december 2018 (3 maanden)
-- Mama’s koelkast van januari 2020 tot maart 2020 (3 maanden)
-- Usecue B.V. van februari 2022 tot juli 2022 (6 maanden)
+- Apotheek vogeltjeswei van oktober 2018 tot december 2018 (2 maanden)
+- Mama’s koelkast van januari 2020 tot maart 2020 (2 maanden)
+- Usecue B.V. van februari 2022 tot juli 2022 (5 maanden)
+- CubicMill van februari 2023 - heden
 
 ## Werkervaring
 - Dekamarkt vakkenvuller november 2017-april 2018 
